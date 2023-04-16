@@ -1,0 +1,23 @@
+.div{
+    display: grid;
+    grid-template-columns: 100px 100px 300px;
+    grid-template-rows: 200px 100px;
+}
+
+.div1{
+    background-color: aqua;
+}
+
+.div2{
+    background-color: blueviolet;
+}
+
+.div3{
+    background-color: brown;
+    
+}
+
+.div4{
+    background-color: antiquewhite;
+    
+}
